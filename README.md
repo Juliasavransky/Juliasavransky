@@ -1,6 +1,6 @@
  <h1>👋 Hi, I’m Julia Savransky-Perl</h1>
  <h3> 🌱 I’m currently learning Front-end developing </h3>
- <h3>👀 I’m interested in React , JavaScpirt, css </h3>
+ <h3>👀 I’m interested in React , JavaScpirt, CSS </h3>
  <h3>💞️ I’m - <span style=color:green> she codes;</span> team member </h3>
 
  
